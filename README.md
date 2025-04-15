@@ -1,4 +1,4 @@
-# myapp
+# Flutter Techtaste
 
 A new Flutter project.
 
